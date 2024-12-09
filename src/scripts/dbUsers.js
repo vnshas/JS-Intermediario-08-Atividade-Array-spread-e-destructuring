@@ -40,3 +40,5 @@ const usuarios = Object.freeze([
     email: "danrley@kenzie.com",
   },
 ]);
+
+export default usuarios;
